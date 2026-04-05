@@ -1,0 +1,12 @@
+Electricity Maps (2024). {SWITZERLAND} {2023} {HOURLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2023} {MONTHLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2023} {YEARLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2023} {DAILY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2022} {DAILY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2022} {MONTHLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2022} {HOURLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2022} {YEARLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2021} {HOURLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2021} {DAILY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2021} {MONTHLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
+Electricity Maps (2024). {SWITZERLAND} {2021} {YEARLY} Carbon Intensity Data (Version January 17, 2024). Electricity Maps Data Portal. https://www.electricitymaps.com/data-portal
