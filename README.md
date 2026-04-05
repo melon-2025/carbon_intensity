@@ -20,7 +20,7 @@ Go to the root of the project and install requirements.txt. cou do this by writi
 
 # 2nd step part two
 
-- Download all the necessary datasets in their respective folders [DataSet Table](DataSet Table)
+- Download all the necessary datasets in their respective folders 
 - From electricity Maps download the data set for carbon intensity dataset hourly   for 2021,2022,2023
 - From swiss Grid download consumption and production dataset 15 min frequency dataset for 2021,2022,2023
 - Place the datasets in the folder data/raw
